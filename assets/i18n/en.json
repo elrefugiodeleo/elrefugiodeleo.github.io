@@ -1,0 +1,128 @@
+{
+  "FOOTER": {
+    "MAIN": "Main",
+    "DOGS": "Our Dogs",
+    "ABOUTUS": "About Us",
+    "HELPUS": "Help Us",
+    "CONTACT": "Contact"
+  },
+  "HEADER": {
+    "MAIN": "Main",
+    "DOGS": "Our Dogs",
+    "ABOUTUS": "About Us",
+    "HELPUS": "Help Us",
+    "CONTACT": "Contact"
+  },
+  "SIDENAV": {
+      "MAIN": {
+          "TITLE": "Main",
+          "DESCRIPTION": ""
+      },
+      "DOGS": {
+          "TITLE": "Our Dogs",
+          "DESCRIPTION": "Adopt your best friend"
+      },
+      "ABOUTUS": {
+          "TITLE": "About us",
+          "DESCRIPTION": "el Refugio"
+      },
+      "HELPUS": {
+          "TITLE": "Help us",
+          "DESCRIPTION": "Help our dogs"
+      },
+      "CONTACT": {
+          "TITLE": "Contact",
+          "DESCRIPTION": "Follow us"
+      }
+  },
+  "CONTACT" : {
+    "TITLE": "Contact?",
+    "SUBTITLE" : "You can contact us by Social Media or our contact form.",
+    "SOCIALTITLE": "Social Media",
+    "SOCIALDESCRIPTION": "You can know our day-to-day work in our Social Media accounts"
+  },
+  "CONTACTFORM": {
+    "TITLE" : "Contact Form",
+    "BUTTON": "Submit",
+    "NAME": {
+      "LABEL" : "Name",
+      "PLACEHOLDER": "What's your name?",
+      "ERROR": "Name is required."
+    },
+    "EMAIL": {
+      "LABEL" : "Email",
+      "PLACEHOLDER": "Your Email",
+      "ERROR": "Email is required.",
+      "INVALID": "You should introduce a valid Email."
+    },
+    "PHONE": {
+      "LABEL" : "Phone Number",
+      "PLACEHOLDER": "Your Phone Number",
+      "ERROR": "Phone Number is required."
+    },
+    "SUBJECT": {
+      "LABEL" : "Subject",
+      "PLACEHOLDER": "Why do you want to contact us?",
+      "ERROR": "Subject is required.",
+      "POPULATED" : "I'm interesting in adopting {{value}}"
+    },
+    "MESSAGE": {
+      "LABEL" : "Message",
+      "PLACEHOLDER": "Let us know!",
+      "ERROR": "Message is required.",
+      "POPULATED" : "Hi! I would like to adopt {{value}}. Could you contact me to follow next steps? Thanks!"
+    },
+    "SUCCESS" : {
+      "TITLE" : "Thanks for your message!",
+      "SUBTITLE": "We´ll try to contact you asap!"
+    },
+    "FAILED" : {
+      "TITLE" : "Oops, something is wrong",
+      "SUBTITLE": "Please, contact us by email or social media"
+    }
+  },
+  "HELPUS" : {
+    "TITLE": "Help Us",
+    "DONATE" : {
+      "TITLE" : "Donate!",
+      "MESSAGE": "You can donate to:"
+    },
+    "TEAMING" : {
+      "TITLE" : "You can join our Teaming Group",
+      "MESSAGE": "Teaming of el Refugio de Leo",
+      "BANNER": "Collaborate with us with only one euro per month"
+    },
+    "RECYCLE" : {
+      "TITLE" : "Bring what you don't need",
+      "MESSAGE": "Blanquets, towels, cushions, mattresses, we can reuse whatever similar thing as well :)"
+    },
+    "SHELTER" : {
+      "TITLE" : "You can shelter a dog",
+      "MESSAGE": "Shelter at home one of our dogs while we find a family for them, it will be very happy and it will adapt to its new family very soon.",
+      "LINK" : "Contact with us!"
+    },
+    "ADOPT" : {
+      "TITLE" : "Adopt!",
+      "MESSAGE": "That's the best thing that can happen :)"
+    }
+  },
+  "ABOUTUS" : {
+    "TITLE": "About Us",
+    "HISTORY" : {
+      "TITLE" : "History",
+      "MESSAGE": "El Refugio was born from the fact that one of its founders, as she normally did, walked with her dogs through Vega de Velez, one of those days a man told us that there was a family of abandoned dogs.<br><br>We went there quickly and found with 3 generations. A mother (Maya) that had 4 puppies (Fito, Luna, Lisa and Vera) besides Hera and Negrito of a previous litter.<br><br>All the neighbors of the area were tired of them, so we had to take them to a residence and shelter houses.<br><br>We decided to fix a plot where we could have them there. Seeing that there was no comfortable place for the dogs, we threw the caution to the wind and built the cheniles, this and having water enabled made us a shelter :).<br><br>One of the godmothers while preparing everything, stop to pay for the residence so Lisa and Luna were the first tenants of el Refugio.<br><br>The Refugio continues with the selfless help of many friends and volunteers, and not from the authorities, which hinders the work of our Refuge.<br><br>Many thanks to all those people who put their two cents to give a better life to all our dogs."
+    }
+  },
+  "DOGS" : {
+    "TITLE": "Dogs for adoption",
+    "ADOPTED" : "Adopted!",
+    "DETAILS" : {
+      "NAME" : "Name: ",
+      "GENDER": "Sex: ",
+      "SIZE" : "Size: ",
+      "AGE" : "Age: ",
+      "BUTTON": "I'm interesting in adopt it!"
+    }
+  }
+
+}
